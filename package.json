@@ -1,0 +1,22 @@
+{
+  "name": "s3_basic_operations",
+  "version": "1.0.0",
+  "description": "s3 operations from node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "S3",
+    "nodejs",
+    "aws"
+  ],
+  "author": "Anandan Kaliamurthy",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.696.0",
+    "express": "^4.17.1",
+    "mime-types": "^2.1.27",
+    "nodemon": "^2.0.4"
+  }
+}
